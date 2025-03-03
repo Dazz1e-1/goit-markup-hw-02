@@ -1,0 +1,18 @@
+.nav-link .link {
+  color: #2e2f42;
+}
+.nav-link .link:hover {
+  color: #404bbf;
+}
+.nav-link .link-contacts {
+  color: #2e2f42;
+}
+.nav-link .link-contacts:hover {
+  color: #404bbf;
+}
+.social-link .link {
+  color: #434455;
+}
+.social-link .link:hover {
+  color: #404bbf;
+}
