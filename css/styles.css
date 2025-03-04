@@ -43,3 +43,23 @@ a {
 .address-link .link:focus {
   color: #404bbf;
 }
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+.butt {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.butt .butt:hover,
+.butt .butt:focus {
+  background-color: #404bbf;
+}
