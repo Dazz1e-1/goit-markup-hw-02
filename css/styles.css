@@ -43,10 +43,10 @@ a {
 .address-link .link:focus {
   color: #404bbf;
 }
-.section-1 {
+.section-one {
   background-color: #2e2f42;
 }
-.section-1 .title {
+.section-one .title {
   font-weight: 700;
   font-size: 56px;
   line-height: 107%;
@@ -67,28 +67,28 @@ a {
 .butt:focus {
   background-color: #404bbf;
 }
-.section-2 .title {
+.section-two .title {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section-2 .text {
+.section-two .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section-3 {
+.section-three {
   background-color: #f4f4fd;
   text-transform: capitalize;
 }
-.section-3 .box {
+.section-three .box {
   background-color: #ffffff;
 }
-.section-3 .title-main {
+.section-three .title-main {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -96,7 +96,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.section-3 .title {
+.section-three .title {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -104,7 +104,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.section-3 .text {
+.section-three .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -112,7 +112,7 @@ a {
   text-align: center;
   color: #434455;
 }
-.section-4 .title-main {
+.section-four .title-main {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
@@ -121,14 +121,14 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.section-4 .title {
+.section-four .title {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section-4 .text {
+.section-four .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
